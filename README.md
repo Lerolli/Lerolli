@@ -1,3 +1,7 @@
-<h2>Hey 👋, I'm Anton</h2>
-<p>I'm currently a mobile developer at <strong><a href="https://doubletapp.ai/">Doubletapp</a></strong>.</p>
-          
+## Hey 👋, I'm Anton
+I'm currently a mobile developer at <strong><a href="https://doubletapp.ai/">Doubletapp</a></strong>
+
+Skills:
+- Example using UIKit you can see in my prototype of my [pet project about instagram profile](https://github.com/lerolli/instagram-profile)
+- Example using WebRTC and Socket.io you can see in my [pet project about videochat](https://github.com/lerolli/WebRTC)
+- Example using Swinject, SwiftUI, Combine UNIT-testing you can see in my [pet project about swap perties](https://github.com/lerolli/kvaga-iOS)
