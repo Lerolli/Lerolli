@@ -4,4 +4,4 @@ I'm currently a mobile developer at <strong><a href="https://doubletapp.ai/">Dou
 Skills: SwftUI, UIKit, Combine, RXSwift, Swinject, WebRTC, Realm, Alamofire
 
 Pet projects:
-- Example of using WebRTC and Socket.io you can see in my [pet project about videochat]([https://github.com/lerolli/WebRTC](https://github.com/lerolli/WebRTC-iOS))
+- Example of using WebRTC and Socket.io you can see in my [pet project about videochat](https://github.com/lerolli/WebRTC-iOS)
